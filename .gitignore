@@ -1,0 +1,5 @@
+*.exe
+deadlock
+sleep_wakeup
+__pycache__/
+*.pyc
